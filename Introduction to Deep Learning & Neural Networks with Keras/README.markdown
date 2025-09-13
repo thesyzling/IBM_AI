@@ -102,6 +102,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 - **Instructor**: Alex Aklson for creating an engaging and comprehensive course.
 - **IBM**: For providing the course through Coursera.
 - **Coursera**: For hosting the course and enabling flexible learning.
-
-## Contact
-For questions or feedback, feel free to open an issue in the repository or contact the maintainer at [your-email@example.com](mailto:your-email@example.com).
