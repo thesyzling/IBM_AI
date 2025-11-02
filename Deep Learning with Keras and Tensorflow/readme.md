@@ -3,7 +3,7 @@
 **Based on the course:** Deep Learning with Keras and TensorFlow (IBM via Coursera)  
 
 ## 🚀 Overview  
-This repository contains practical implementations, notebook experiments and project work aligned with the “Deep Learning with Keras & TensorFlow” course. The course covers advanced deep-learning topics using Keras (as part of TensorFlow 2.x) and helps you build, train and optimise neural networks for a variety of tasks (CNNs, Transformers, Unsupervised learning, RL). :contentReference[oaicite:3]{index=3}  
+This repository contains practical implementations, notebook experiments and project work aligned with the “Deep Learning with Keras & TensorFlow” course. The course covers advanced deep-learning topics using Keras (as part of TensorFlow 2.x) and helps you build, train and optimise neural networks for a variety of tasks (CNNs, Transformers, Unsupervised learning, RL).  
 
 This code base is intended both as a **learning companion** (to follow the concepts from the course) and as a **reference library** for real-world experimentation.
 
@@ -11,13 +11,13 @@ This code base is intended both as a **learning companion** (to follow the conce
 Here’s a summary of what the course covers (and thus what this repository touches on):  
 | Module | Key Topics |  
 |--------|------------|  
-| 1. Advanced Keras Functionalities | Functional API, model subclassing, custom layers, integration with TensorFlow 2.x. :contentReference[oaicite:4]{index=4} |  
-| 2. Advanced CNNs in Keras | Convolutional architectures, data augmentation, transfer learning, pre-trained models, image processing. :contentReference[oaicite:5]{index=5} |  
-| 3. Transformers in Keras | Building Transformers for sequential & time-series data, text generation, TensorFlow for sequential data. :contentReference[oaicite:6]{index=6} |  
-| 4. Unsupervised Learning & Generative Models | Autoencoders, diffusion models, GANs, unsupervised model design in Keras/TensorFlow. :contentReference[oaicite:7]{index=7} |  
-| 5. Advanced Keras Techniques | Custom training loops, hyperparameter tuning (Keras Tuner), model optimisation. :contentReference[oaicite:8]{index=8} |  
-| 6. Introduction to Reinforcement Learning with Keras | Q-learning, Deep Q-Networks (DQNs), reinforcement learning workflows in Keras. :contentReference[oaicite:9]{index=9} |  
-| 7. Final Project & Assignment | Apply the learned techniques: classification model using transfer learning. :contentReference[oaicite:10]{index=10} |  
+| 1. Advanced Keras Functionalities | Functional API, model subclassing, custom layers, integration with TensorFlow 2.x.|  
+| 2. Advanced CNNs in Keras | Convolutional architectures, data augmentation, transfer learning, pre-trained models, image processing.|  
+| 3. Transformers in Keras | Building Transformers for sequential & time-series data, text generation, TensorFlow for sequential data.|  
+| 4. Unsupervised Learning & Generative Models | Autoencoders, diffusion models, GANs, unsupervised model design in Keras/TensorFlow.|  
+| 5. Advanced Keras Techniques | Custom training loops, hyperparameter tuning (Keras Tuner), model optimisation.|  
+| 6. Introduction to Reinforcement Learning with Keras | Q-learning, Deep Q-Networks (DQNs), reinforcement learning workflows in Keras.|  
+| 7. Final Project & Assignment | Apply the learned techniques: classification model using transfer learning.|  
 
 ## 🗂 Repository Structure  
 Deep Learning with Keras and TensorFlow/
